@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4875
+
+I would like to suggest adding an industrial color scheme to the next Vim release.
+I used to work and program for machines in industrial environment. The main difference between industrial environment and desktop environment is the immediate risk for human lives.
+Therefore, colors are highly important and very meaningful in industry. 
+Just take for example the traffic lights: imagine the green as blue or the red as brown... that could certainly cause an accident, since we all associate colors with meanings (as I briefly described in the header of the source file). 
+From my personal experience, designing an HMI (Human-Machine-Interface) with non-standard colors, reduces productivity, risks human lives, and makes the workers tired quicker.
+I assume that the standard industrial color scheme might be helpful also in the desktop environment.
+I would like to offer this color scheme to Vim maintainer, Bram.
+Is there any objection? 
